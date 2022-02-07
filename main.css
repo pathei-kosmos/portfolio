@@ -1,0 +1,13 @@
+/* Carousel*/
+.carousel,
+.carousel-item,
+.carousel-item.active {
+    height: 90vh;
+}
+.carousel-inner {
+    height: 90vh;
+}
+
+.slide-images-selector {
+    object-fit: contain;
+}
