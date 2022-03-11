@@ -1,3 +1,3 @@
 # Portfolio :newspaper:
 
-Small exercise to create a responsive portfolio with Bootstrap. :blush:
+Small exercise to create a responsive portfolio with Bootstrap.
